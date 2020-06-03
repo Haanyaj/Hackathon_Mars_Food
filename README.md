@@ -1,7 +1,7 @@
-## Hackathon_Mars_Food
+## Hackathon Mars Food
 
-1er prix Hackathon/ Makeathon Mars
-Apr 1, 2019  honor issuerMARS
+1er prix Hackathon / Makeathon Mars
+Apr 1, 2019  MARS
 
 Makeathon organisé par l'IÉSEG School of Management !
 "Comment aider les consommateurs à cuisiner facilement à la maison et de façon saine et biologique, un repas qu'ils ont mangé au restaurant ?" : un challenge , coaché par des membres d'Oracle, que nous a lancé la marque Seeds of Change du groupe Mars.
